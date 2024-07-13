@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/obj/Debug/net8.0/scopedcss/projectbundle/EcommerceBook.bundle.scp.css",
+      "PackagePath": "staticwebassets/EcommerceBook.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/0228b693-1995-4643-94d8-bf01ba8acac9.jpeg",
+      "PackagePath": "staticwebassets/images/product/0228b693-1995-4643-94d8-bf01ba8acac9.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/0f7ea318-1fb6-445f-bf45-1caea69025fa.jpeg",
+      "PackagePath": "staticwebassets/images/product/0f7ea318-1fb6-445f-bf45-1caea69025fa.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/34ffa09f-9ed5-4091-9a29-2e9ad593407b.jpeg",
+      "PackagePath": "staticwebassets/images/product/34ffa09f-9ed5-4091-9a29-2e9ad593407b.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/3bde5146-7c40-45ea-8fae-5ca362f90664.jpeg",
+      "PackagePath": "staticwebassets/images/product/3bde5146-7c40-45ea-8fae-5ca362f90664.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/424fa852-2afd-4af3-b041-b0b6c217f81a.jpeg",
+      "PackagePath": "staticwebassets/images/product/424fa852-2afd-4af3-b041-b0b6c217f81a.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/486aaa0e-743d-4f51-92be-8a38fb0dba18.jpeg",
+      "PackagePath": "staticwebassets/images/product/486aaa0e-743d-4f51-92be-8a38fb0dba18.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/530017da-5fb5-4a68-b4a6-0938bf84d1b7.jpeg",
+      "PackagePath": "staticwebassets/images/product/530017da-5fb5-4a68-b4a6-0938bf84d1b7.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/6189c69e-ad8d-4468-b2ea-c00e9ed0d5ff.jpeg",
+      "PackagePath": "staticwebassets/images/product/6189c69e-ad8d-4468-b2ea-c00e9ed0d5ff.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/786b62b9-be13-45fb-a275-d3b01b435400.jpeg",
+      "PackagePath": "staticwebassets/images/product/786b62b9-be13-45fb-a275-d3b01b435400.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/7a812fe5-4bf2-4be5-b5dd-9b9523115e33.jpeg",
+      "PackagePath": "staticwebassets/images/product/7a812fe5-4bf2-4be5-b5dd-9b9523115e33.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/93b041c0-b43e-4d64-bb0b-181cd43e70f2.jpeg",
+      "PackagePath": "staticwebassets/images/product/93b041c0-b43e-4d64-bb0b-181cd43e70f2.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/9776cf79-904a-48c6-af0c-aa263ad296ae.jpeg",
+      "PackagePath": "staticwebassets/images/product/9776cf79-904a-48c6-af0c-aa263ad296ae.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/9814e3a3-412e-4da0-baba-4f432f3d002e.jpeg",
+      "PackagePath": "staticwebassets/images/product/9814e3a3-412e-4da0-baba-4f432f3d002e.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/9ff9d5a9-a108-4bcb-92d0-ec44ff577dcf.avif",
+      "PackagePath": "staticwebassets/images/product/9ff9d5a9-a108-4bcb-92d0-ec44ff577dcf.avif"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/a94ed648-c06b-4356-95f2-51afc7860868.jpeg",
+      "PackagePath": "staticwebassets/images/product/a94ed648-c06b-4356-95f2-51afc7860868.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/b0092a3f-4109-4b85-9616-e5d761e755d3.avif",
+      "PackagePath": "staticwebassets/images/product/b0092a3f-4109-4b85-9616-e5d761e755d3.avif"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/da9d50d5-3700-4297-b674-c343c3851545.jpeg",
+      "PackagePath": "staticwebassets/images/product/da9d50d5-3700-4297-b674-c343c3851545.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/dabbb4d0-60f7-4d4b-9be4-857941ceca68.jpeg",
+      "PackagePath": "staticwebassets/images/product/dabbb4d0-60f7-4d4b-9be4-857941ceca68.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/product/fffd70ec-5be5-4d61-a4e4-f9ee29bb2c04.jpeg",
+      "PackagePath": "staticwebassets/images/product/fffd70ec-5be5-4d61-a4e4-f9ee29bb2c04.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/images/success.jpeg",
+      "PackagePath": "staticwebassets/images/success.jpeg"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/js/company.js",
+      "PackagePath": "staticwebassets/js/company.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/js/order.js",
+      "PackagePath": "staticwebassets/js/order.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/js/user.js",
+      "PackagePath": "staticwebassets/js/user.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/EcommerceBook/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EcommerceBook.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.EcommerceBook.props",
+      "PackagePath": "build\\EcommerceBook.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EcommerceBook.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceBook.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EcommerceBook.props",
+      "PackagePath": "buildTransitive\\EcommerceBook.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

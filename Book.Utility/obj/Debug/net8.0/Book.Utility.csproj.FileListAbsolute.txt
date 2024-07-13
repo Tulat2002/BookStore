@@ -1,0 +1,12 @@
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/bin/Debug/net8.0/Book.Utility.deps.json
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/bin/Debug/net8.0/Book.Utility.dll
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/bin/Debug/net8.0/Book.Utility.pdb
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/obj/Debug/net8.0/Book.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/obj/Debug/net8.0/Book.Utility.AssemblyInfoInputs.cache
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/obj/Debug/net8.0/Book.Utility.AssemblyInfo.cs
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/obj/Debug/net8.0/Book.Utility.csproj.CoreCompileInputs.cache
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/obj/Debug/net8.0/Book.Utility.dll
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/obj/Debug/net8.0/refint/Book.Utility.dll
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/obj/Debug/net8.0/Book.Utility.pdb
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/obj/Debug/net8.0/ref/Book.Utility.dll
+/Users/luonganhtu/Documents/Project/BookStore/EcommerceBook/Book.Utility/obj/Debug/net8.0/Book.Utility.csproj.AssemblyReference.cache
